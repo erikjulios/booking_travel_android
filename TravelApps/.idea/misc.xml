@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/drawable-anydpi/ic_date.xml" value="0.116" />
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/layout/activity_book_kereta.xml" value="0.1796875" />
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/layout/activity_history.xml" value="0.1796875" />
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/layout/activity_profile.xml" value="0.1796875" />
+        <entry key="..\:/Pemesanan-Travel-master/TravelApps/app/src/main/res/layout/list_item_booking.xml" value="0.1796875" />
+        <entry key="..\:/Users/erikj/AppData/Local/Android/Sdk/platforms/android-29/data/res/layout/simple_spinner_dropdown_item.xml" value="0.1796875" />
+        <entry key="..\:/Users/erikj/AppData/Local/Android/Sdk/platforms/android-29/data/res/layout/simple_spinner_item.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
